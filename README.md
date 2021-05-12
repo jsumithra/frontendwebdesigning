@@ -19,8 +19,8 @@
 1. Alphabets
 2. Digits
    1. Natural Numbers
-   2.Whole Numbers
-   3.Integers
+   2. Whole Numbers
+   3. Integers
   
   
   
